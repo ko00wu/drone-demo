@@ -4,3 +4,4 @@ steps:
     commands:
       - ls -al
       - pwd
+      - pwd
